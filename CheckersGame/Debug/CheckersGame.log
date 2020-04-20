@@ -1,2 +1,4 @@
 ﻿  CheckersGame.cpp
+d:\visual-cwiczeniac++\checkersgame\checkersgame\checkersgame.cpp(182): warning C4101: "hor_movement1": lokalna zmienna, do której nie istnieje odwołanie
+d:\visual-cwiczeniac++\checkersgame\checkersgame\checkersgame.cpp(182): warning C4101: "hor1": lokalna zmienna, do której nie istnieje odwołanie
   CheckersGame.vcxproj -> D:\Visual-cwiczeniaC++\CheckersGame\Debug\CheckersGame.exe
